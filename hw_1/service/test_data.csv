@@ -1,0 +1,3 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,torque,seats
+Volkswagen Polo,2017,40000,Petrol,Individual,Automatic,Second Owner,18.78 kmpl,999 CC,75 bhp,95Nm@ 3000-4300rpm,5
+Mahindra XUV300 W8 Option BSIV,2019,22000,Petrol,Individual,Manual,First Owner,17.0 kmpl,1197 CC,110 bhp,200Nm@ 2000-3500rpm,5
