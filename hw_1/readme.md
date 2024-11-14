@@ -38,11 +38,11 @@
 **Скриншоты работы сервис**
 
 Метод predict_item (на вход в формате json подаются признаки одного объекта, на выходе сервис выдает предсказанную стоимость машины):
-<img src="https://github.com/Lak1n26/hse_ml_2024/hw_1/service/screenshots/car_1.png"/>
-<img src="https://github.com/Lak1n26/hse_ml_2024/hw_1/service/screenshots/car_2.png"/>
+<img src="https://github.com/Lak1n26/hse_ml_2024/blob/main/hw_1/service/screenshots/car_1.png"/>
+<img src="https://github.com/Lak1n26/hse_ml_2024/blob/main/hw_1/service/screenshots/car_2.png"/>
 
 Метод predict_items (получает на вход csv файл, возвращает таблицу, дополненную столбцом с ценой):
-<img src="https://github.com/Lak1n26/hse_ml_2024/hw_1/service/screenshots/cars.png"/>
+<img src="https://github.com/Lak1n26/hse_ml_2024/blob/main/hw_1/service/screenshots/cars.png"/>
 
 Итог (статусы по каждому запросу):
-<img src="https://github.com/Lak1n26/hse_ml_2024/hw_1/service/screenshots/status.png"/>
+<img src="https://github.com/Lak1n26/hse_ml_2024/blob/main/hw_1/service/screenshots/status.png"/>
